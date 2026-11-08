@@ -1,0 +1,5 @@
+text
+
+aiogram
+beautifulsoup4
+requests
